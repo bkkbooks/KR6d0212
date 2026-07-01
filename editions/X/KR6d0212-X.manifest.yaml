@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6d0212/X/v1
+canonical_location: https://kanripo.org/bkk/KR6d0212/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 天台智者大師發願文
+  identifiers:
+    krp: KR6d0212
+    cbeta: X55n0913
+    cbeta_old_id: X55n0913
+    authorityid: CA0003251
+    json_key: X0913
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X55/X55n0913.xml
+    old_id: X55n0913
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0212_000-X.yaml, hash: 'sha256:420140e741e4f91878ffe2c781c5cbf58e40e8cc939f9b40cedc261a6e8da807'}
+  - {seq: 1, filename: KR6d0212_001-X.yaml, hash: 'sha256:97ab25d1758094fb564c94702760f1b7887090bc16b19f4415751294c2b8718d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0212_000-X.markers.yaml, hash: 'sha256:1fcdea1f018e5afab61da61529919e29bf2b0cbabd20c703b6d1b7df3b039af6'}
+  - {seq: 1, role: markers, filename: assets/KR6d0212_001-X.markers.yaml, hash: 'sha256:44913cb4c9dc284f45f5ea0d9afaa1764101ad9715164bed506eb926ccdb83a8'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6d0212_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 963
+  label: 天台智者大師發願文
+  type: juan
+  level: 1
+hash: sha256:145a737db404d4e7c2474b95873e13fc0e96213a1f6120da5b6afcfb4b140ffa

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0212/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 天台智者大師發願文
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X55/X55n0913.xml
+    old_id: X55n0913
+hash: sha256:420140e741e4f91878ffe2c781c5cbf58e40e8cc939f9b40cedc261a6e8da807
