@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6d0212/v1
 canonical_location: https://kanripo.org/bkk/KR6d0212/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 天台智者大師發願文
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0212_000.yaml, hash: 'sha256:420140e741e4f91878ffe2c781c5cbf58e40e8cc939f9b40cedc261a6e8da807'}
-  - {seq: 1, filename: KR6d0212_001.yaml, hash: 'sha256:97ab25d1758094fb564c94702760f1b7887090bc16b19f4415751294c2b8718d'}
+  - {seq: 1, filename: KR6d0212_001.yaml, hash: 'sha256:f25809583c9ebc10d670e0c5868919151f03808820f54ac5c44721f0aa35ed4e'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6d0212_000.markers.yaml, hash: 'sha256:b6722f26fe0a6d7dd07ec0e1e8ca69fc5b5f2b01c5ad1b3784d1aa2aef8e12f1'}
-  - {seq: 1, role: markers, filename: assets/KR6d0212_001.markers.yaml, hash: 'sha256:cd38ce0cad3dfb191598535651859a2daa96bd84a230a32e8667dd924b224f08'}
+  - {seq: 1, role: markers, filename: assets/KR6d0212_001.markers.yaml, hash: 'sha256:faea4c7806ce6f9bc81671778a4ae96139ad221f128b5cdcb63f9319b8c2ff19'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 天台智者大師發願文
   type: juan
   level: 1
-hash: sha256:09b6af138ab0d2c7dee8074a2245c4d1791d976fb30e7fd7b02f896a6cbf85b0
+hash: sha256:893fc67afb365943b3310d8673ecd9b3f5dfd7ce7e2310499144acd036a1aaa5
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
